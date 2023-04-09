@@ -1,0 +1,6 @@
+.auth-page {
+  height: 100vh;
+  background: no-repeat
+    url("./img/minimalist-white-background-with-neumorphic-circle_1017-39167.avif");
+  background-size: cover;
+}
